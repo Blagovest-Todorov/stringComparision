@@ -1,2 +1,2 @@
 # stringComparision
-can we copare strings ?
+can we compare strings ?
